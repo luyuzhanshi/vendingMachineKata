@@ -79,4 +79,3 @@ _So that I can determine if I can buy something with the money I have before ins
 When the machine is not able to make change with the money in the machine for any of the items that it sells, it will
 display EXACT CHANGE ONLY instead of INSERT COIN.
 # vendingMachineKata
-# vendingMachineKata
